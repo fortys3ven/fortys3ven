@@ -1,4 +1,6 @@
-I'm Le Thanh Nguyen
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=fortys3ven&label=Le%20Thanh%20Nguyen&color=1&icon=2&pretty=false" />
+</a>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/NguyenDecc/) 
